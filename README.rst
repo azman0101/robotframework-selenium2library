@@ -1,8 +1,8 @@
 Selenium 2 (WebDriver) library for Robot Framework
 ==================================================
 
-.. image:: https://api.travis-ci.org/robotframework/Selenium2Library.png
-    :target: http://travis-ci.org/robotframework/Selenium2Library
+.. image:: https://travis-ci.org/azman0101/robotframework-selenium2library.svg?branch=master
+    :target: https://travis-ci.org/azman0101/robotframework-selenium2library
 
 .. image:: https://img.shields.io/pypi/v/robotframework-selenium2library.svg
     :target: https://pypi.python.org/pypi/robotframework-selenium2library
